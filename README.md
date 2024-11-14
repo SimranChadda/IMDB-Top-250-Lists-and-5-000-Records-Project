@@ -1,4 +1,4 @@
-# IMDb Movies Dashboard Analysis
+# IMDB Movies Dashboard Analysis
 
 ## Overview
 This Power BI dashboard provides an in-depth analysis of movies based on IMDb ratings, box office performance, genres, and other unique insights trends, and correlations. The data is sourced from data.world, and the dashboard offers key insights into trends and patterns in the movie industry.
